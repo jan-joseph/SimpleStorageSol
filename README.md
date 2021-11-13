@@ -11,4 +11,6 @@
 ## Deploying to a Test Net
 
 1. Create a new Project in [Infura](https://infura.io) to run a node for you.
-2. The Address and Private Key will be same as the Metamask address and Private Key ( it should have some amount to account for Gas Fee in the corresponding Testnets)
+2. The w3 URL can be found from the Infure Project Dashboard.
+3. The chain id will be the chain Id for the corresponding [Test-Net](https://chainlist.org).
+4. The Address and Private Key will be same as the Metamask address and Private Key ( it should have some amount to account for Gas Fee in the corresponding Testnets)
